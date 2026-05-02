@@ -34,7 +34,8 @@ pip install tensorflow opencv-python numpy
 
 ## 📂 Project Structure
 
-Code
+#### Code
+
 ├── model.tflite        # Pre-trained TensorFlow Lite model
 
 ├── labelmap.txt        # Class labels
