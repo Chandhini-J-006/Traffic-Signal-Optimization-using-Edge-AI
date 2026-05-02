@@ -5,27 +5,20 @@ This project demonstrates real-time traffic signal optimization using Edge AI wi
 
 ## ⚙️ Features
 
-Model Size Check: Ensures .tflite model is under 50 MB for edge deployment.
+- ✅ Model size check (must be under 50 MB for edge deployment)
+- ⚡ Real-time inference with latency target < 100 ms
+- 🚗 Vehicle detection (cars, buses, trucks, motorcycles)
+- 📊 Weighted traffic density calculation for realism
+- ⏱️ Adaptive signal control (20s, 40s, 60s green light)
+- 🔋 Power efficiency via frame skipping
 
-Real-Time Inference: Achieves latency targets below 100 ms.
-
-Vehicle Detection: Identifies cars, buses, trucks, and motorcycles using bounding boxes.
-
-Traffic Density Calculation: Weighted scoring system for realistic traffic load estimation.
-
-Adaptive Signal Control: Adjusts green light duration based on density (20s, 40s, 60s).
-
-Power Efficiency: Frame skipping reduces computation load.
+---
 
 ## 🛠️ Requirements
-
-Python 3.8+
-
-TensorFlow Lite
-
-OpenCV
-
-NumPy
+- Python 3.8+
+- TensorFlow Lite
+- OpenCV
+- NumPy
 
 ### Install dependencies:
 
