@@ -68,7 +68,7 @@ Run the script:
 
 ---
 
-## Result:
+## Results :
 
 - Bounding boxes around detected vehicles.
 
