@@ -22,10 +22,12 @@ This project demonstrates real-time traffic signal optimization using Edge AI wi
 - OpenCV
 - NumPy
 
+---
+
 ### Install dependencies:
 
-```bash
-pip install tensorflow opencv-python numpy
+bash
+pip install tensorflow opencv-python numpy  
 
 ---
 
@@ -45,6 +47,8 @@ pip install tensorflow opencv-python numpy
 
 └── README.md               (Documentation)
 
+---
+
 ## 🚦 Signal Logic
 
 High Traffic (density > 10) → Green = 60 sec
@@ -53,12 +57,16 @@ Medium Traffic (density > 5) → Green = 40 sec
 
 Low Traffic (density ≤ 5) → Green = 20 sec
 
+---
+
 ## ▶️ Usage
 
 Run the script:
 
 bash
 python traffic.py
+
+---
 
 ## Output:
 
@@ -67,6 +75,8 @@ Bounding boxes around detected vehicles.
 Density score and traffic decision displayed on video.
 
 Latency monitoring for real-time performance.
+
+---
 
 ## 📊 Example Output
 
@@ -78,10 +88,12 @@ Decision: HIGH TRAFFIC → Green = 60 sec
 
 Latency: 85 ms → Real-time OK
 
+---
+
 ## 🌍 Applications
 
-Smart city traffic management
+- Smart city traffic management
 
-IoT-enabled intersections
+- IoT-enabled intersections
 
-Edge AI deployment for low-latency systems
+- Edge AI deployment for low-latency systems
