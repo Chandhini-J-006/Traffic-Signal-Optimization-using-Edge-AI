@@ -1,6 +1,6 @@
-Traffic Signal Optimization using Edge AI
+## Traffic Signal Optimization using Edge AI
 
-📌 Overview
+#📌 Overview
 This project demonstrates real-time traffic signal optimization using Edge AI with TensorFlow Lite models. By deploying lightweight models directly on edge devices, the system reduces latency, avoids cloud dependency, and ensures efficient traffic management. Vehicle detection is performed on live video feeds, and traffic density is used to dynamically adjust signal timings.
 
 ⚙️ Features
