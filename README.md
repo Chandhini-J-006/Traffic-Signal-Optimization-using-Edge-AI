@@ -28,8 +28,6 @@ This project demonstrates real-time traffic signal optimization using Edge AI wi
 
 ### Install dependencies:
 
-**bash
-
 ```pip install tensorflow opencv-python numpy ```
 
 ---
@@ -65,8 +63,6 @@ Low Traffic (density ≤ 5) → Green = 20 sec
 ## ▶️ Usage
 
 Run the script:
-
-bash
 
 ```python traffic.py```
 
