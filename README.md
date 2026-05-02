@@ -68,7 +68,7 @@ python traffic.py
 
 ---
 
-## Output:
+## Result:
 
 - Bounding boxes around detected vehicles.
 
