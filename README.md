@@ -78,7 +78,7 @@ Run the script:
 
 ---
 
-## 📊 Example Output
+### 📊 Example Output
 
 Vehicles counted: 12
 
