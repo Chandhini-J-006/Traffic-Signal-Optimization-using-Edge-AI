@@ -36,9 +36,13 @@ pip install tensorflow opencv-python numpy
 
 Code
 ├── model.tflite        # Pre-trained TensorFlow Lite model
+
 ├── labelmap.txt        # Class labels
+
 ├── test2_video.mp4     # Sample traffic video
+
 ├── traffic.py          # Main script
+
 └── README.md           # Documentation
 
 ## 🚦 Signal Logic
