@@ -28,7 +28,7 @@ This project demonstrates real-time traffic signal optimization using Edge AI wi
 
 ### Install dependencies:
 
-pip install tensorflow opencv-python numpy
+```bash pip install tensorflow opencv-python numpy ```
 
 ---
 
