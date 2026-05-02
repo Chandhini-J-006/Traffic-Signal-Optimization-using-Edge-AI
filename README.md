@@ -70,11 +70,11 @@ python traffic.py
 
 ## Output:
 
-Bounding boxes around detected vehicles.
+- Bounding boxes around detected vehicles.
 
-Density score and traffic decision displayed on video.
+- Density score and traffic decision displayed on video.
 
-Latency monitoring for real-time performance.
+- Latency monitoring for real-time performance.
 
 ---
 
